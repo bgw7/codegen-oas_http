@@ -1,0 +1,11 @@
+*
+/**
+!/.gitignore
+!Makefile
+!README.md
+!LICENSE
+
+
+!/.vscode
+!/.vscode/**
+
