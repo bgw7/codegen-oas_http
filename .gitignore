@@ -1,11 +1,17 @@
 *
-/**
-!/.gitignore
+
+!.gitignore
 !Makefile
 !README.md
 !LICENSE
 
+!*.go
+!go.mod
+!go.sum
+!/cmd
+!/internal
+!/internal/**
+
 
 !/.vscode
 !/.vscode/**
-

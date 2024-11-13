@@ -1,2 +1,2 @@
 ## Generate GO code using on OpenAPI Spec
-- HTTP clients by github.com/pb33f/libopenapi
+- HTTP clients using `github.com/pb33f/libopenapi`
